@@ -10,17 +10,17 @@
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **creating end-to-end web applications that seamlessly integrate front-end and back-end technologies for a fluid user experience.**
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 💬 Ask me about **react.js,node.js,express.js,mongodb and postgresql**
+- 💬 Ask me about **react.js, node.js, express.js, mongodb, go and postgresql**
   
-- 👨‍💻 All of my projects are available at [https://64afec1820bfd70007921dcb--santhosh-fsd-project.netlify.app/](https://64afec1820bfd70007921dcb--santhosh-fsd-project.netlify.app/)
+- 👨‍💻 All of my projects are available at [Click Here](https://652e14ad3827b739a6175b80--santhoshfsd-portfolio.netlify.app/)
 
-- 📫 How to reach me **Santhoshfsd2023@gmail.com**
+- 📫 How to reach me **santhoshfsd2023@gmail.com**
 
 ## ⚡ Things I code with
 
